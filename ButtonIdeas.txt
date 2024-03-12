@@ -1,0 +1,15 @@
+Ideas for Buttons
+
+
+
+- Toolkit
+- Link to twitch extension (maybe)
+
+
+Finished Buttons
+
+- Join Battle
+- Choose a specific dungeon
+- Skip turn
+- List Website
+- Leave the fight (as the streamer)

@@ -1,19 +1,8 @@
 {
-  "games.boyne.godot.emitsignal": [
-    {
-      "name": "signalInput",
-      "type": "text",
-      "label": "Signal Input",
-      "placeholder": "Hello, world!"
-    }
-  ],
-  "games.boyne.godot.switchscene": [
-    {
-      "name": "scenePath",
-      "type": "text",
-      "label": "Scene Path",
-      "placeholder": "res://my_scene.tscn"
-    }
-  ],
-  "games.boyne.godot.reloadscene": []
+  "falfan.joinbattle": [],
+  "falfan.choosedungeon": [],
+  "falfan.skipturn": [],
+  "falfan.relaywebsite": [],
+  "falfan.leavecombat": [],
+  "falfan.toolkit": []
 }

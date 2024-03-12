@@ -1,0 +1,104 @@
+{
+  "SDKVersion": 2,
+  "Author": "Falimancy Interactive",
+  "CodePath": "bin/main-darwin",
+  "CodePathMac": "bin/main-darwin",
+  "CodePathWin": "bin/main-windows.exe",
+  "Description": "Utilities for Falinere Fantasy",
+  "Name": "Falinere Fantasy",
+  "Icon": "assets/falfan_icon2",
+  "URL": "https://www.falfan.stream",
+  "Version": "1.0.0",
+  "Category": "Falinere Fantasy",
+  "CategoryIcon": "assets/falfan_icon2",
+  "Software": {
+    "MinimumVersion": "5.0"
+  },
+  "OS": [
+    {
+      "Platform": "mac",
+      "MinimumVersion": "10.11"
+    },
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "Actions": [
+    {
+      "Icon": "assets/JoinBattle",
+      "Name": "Join Battle",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "assets/JoinBattle"
+        }
+      ],
+      "Tooltip": "Join the Current Battle",
+      "UUID": "falfan.joinbattle",
+      "PropertyInspectorPath": "html/falfan.joinbattle.html"
+    },
+    {
+      "Icon": "assets/signal-icon",
+      "Name": "Choose Dungeon",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "assets/signal-icon"
+        }
+      ],
+      "Tooltip": "Choose a Dungeon to Enter",
+      "UUID": "falfan.choosedungeon",
+      "PropertyInspectorPath": "html/falfan.choosedungeon.html"
+    },
+    {
+      "Icon": "assets/signal-icon",
+      "Name": "Skip Turn",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "assets/signal-icon"
+        }
+      ],
+      "Tooltip": "Skips the current Players turn",
+      "UUID": "falfan.skipturn",
+      "PropertyInspectorPath": "html/falfan.skipturn.html"
+    },
+    {
+      "Icon": "assets/signal-icon",
+      "Name": "Relay Website",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "assets/signal-icon"
+        }
+      ],
+      "Tooltip": "Posts the wesbite to the chat",
+      "UUID": "falfan.relaywebsite",
+      "PropertyInspectorPath": "html/falfan.relaywebsite.html"
+    },
+    {
+      "Icon": "assets/signal-icon",
+      "Name": "Leave Combat",
+      "Controllers": [
+        "Keypad"
+      ],
+      "States": [
+        {
+          "Image": "assets/signal-icon"
+        }
+      ],
+      "Tooltip": "Removes you from Combat",
+      "UUID": "falfan.leavecombat",
+      "PropertyInspectorPath": "html/falfan.leavecombat.html"
+    }
+  ]
+}
