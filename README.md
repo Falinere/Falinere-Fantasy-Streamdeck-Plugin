@@ -12,7 +12,7 @@ With this plugin, you perform some actions within the game:
 - Relay Website -- Posts the website for the game into your stream chats
 - Leave Combat -- Removes you from combat (if you need to open a spot for players or need to step away from the keyboard for a while)
 
-### Installation
+## Installation
 
 Run the `falfan.streamDeckPlugin` installer to load the plugin into your Elgato Stream Deck software.
 
@@ -20,10 +20,6 @@ Run the `falfan.streamDeckPlugin` installer to load the plugin into your Elgato 
 
 For the `Join Battle` and `Choose Dungeon` buttons, you'll need to select their respective dropdown menus and choose an option. All other buttons can just be edited with a text label to customize it.
 
-
-## Version History
-* 0.0.1
-    * Initial release
 
 ## License
 This project is licenced under the MIT Licence - see the [LICENSE.md](./LICENCE.md) file for details.
