@@ -16,7 +16,7 @@ With this plugin, you perform some actions within the game:
 
 Run the `falfan.streamDeckPlugin` installer to load the plugin into your Elgato Stream Deck software.
 
-![Installed Plugin](docs/image/installed_plugin.jpg)
+![Installed Plugin](docs/images/installed_plugin.jpg)
 
 For the `Join Battle` and `Choose Dungeon` buttons, you'll need to select their respective dropdown menus and choose an option. All other buttons can just be edited with a text label to customize it.
 
